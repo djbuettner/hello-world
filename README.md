@@ -1,1 +1,2 @@
 # hello-world
+This is my first exposure to github. It is required for a professional certificate class that I am taking at Illinois Institute of Technology during the Summer 2018. My career has been as a software engineer, systems engineer, quality professional and business intelligence analyst in two telecommunications companies.  I am currently in career transition and looking forward to gaining new skills to be more marketable.
